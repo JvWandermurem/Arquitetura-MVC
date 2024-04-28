@@ -7,8 +7,9 @@
 O projeto consiste em uma plataforma de acompanhamento dos grupos do desafio CESIM, que mostra uma visualização de dados sobre cada membro do grupo e do grupo como um todo. A plataforma é responsável por registrar avaliações e perfilamentos para os universitários de diferentes países participantes do desafio, com o objetivo de melhorar a relação entre os membros de um grupo.
 
 ## Arquitetura:
-**MVC (Model-View-Controller)**
+
 <div align="center">
+<sub>MVC (Model-View-Controller)</sub>
 <br>
 <br>
 <img src="/MVC Ponderada.jpeg" width="100%">

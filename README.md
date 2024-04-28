@@ -12,6 +12,7 @@ O projeto consiste em uma plataforma de acompanhamento dos grupos do desafio CES
 <br>
 <br>
 <img src="/MVC Ponderada.jpeg" width="100%">
+</div>
 
 ## Ferramenta de Diagramação:
 - draw.io
